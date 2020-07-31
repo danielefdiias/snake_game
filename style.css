@@ -10,7 +10,7 @@ body{
 }
 
 .footer {
-  background-color: var(--second-color);
+  background-color: #0E2431;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
